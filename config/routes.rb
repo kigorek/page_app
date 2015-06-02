@@ -2,6 +2,7 @@ PageApp::Application.routes.draw do
   get "sample_pages/home"
   get "sample_pages/help"
   get "sample_pages/about"
+  get "sample_pages/contact"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

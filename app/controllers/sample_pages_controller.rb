@@ -4,4 +4,7 @@ class SamplePagesController < ApplicationController
 
   def help
   end
+
+  def about
+  	end
 end

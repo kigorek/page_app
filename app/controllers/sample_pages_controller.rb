@@ -1,5 +1,6 @@
 class SamplePagesController < ApplicationController
   def home
+  	"22222222"
   end
 
   def help
